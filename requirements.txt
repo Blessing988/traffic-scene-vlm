@@ -1,0 +1,22 @@
+# Core Dependencies
+torch>=2.0.0
+transformers>=4.45.0
+peft>=0.10.0
+
+# Vision & Video Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+moviepy>=1.0.3
+decord>=0.6.0
+av>=12.0.0
+
+# Data Processing
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Acceleration (optional)
+accelerate>=0.25.0
+bitsandbytes>=0.42.0
+
+# LLaMA Factory (for training)
+# Install separately: pip install llamafactory
