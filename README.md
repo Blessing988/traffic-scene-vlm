@@ -29,7 +29,7 @@ We fine-tune multiple state-of-the-art Vision-Language Models using **LoRA adapt
 | **MiniCPM-V** | `openbmb/MiniCPM-V-2_6` | ✅ | ✅ | 2.4B |
 | **InternVL3** | `OpenGVLab/InternVL3-2B-hf` | ✅ | ✅ | 2B |
 | **LLaVA-NeXT-Video** | `llava-hf/LLaVA-NeXT-Video-7B-hf` | ✅ | ✅ | 7B |
-| **Video-LLaVA** | `LanguageBind/Video-LLaVA-7B-hf` | ✅ | ❌ | 7B |
+| **Video-LLaVA** | `LanguageBind/Video-LLaVA-7B-hf` | ✅ | ✅ | 7B |
 
 ### Key Capabilities
 
@@ -118,8 +118,8 @@ cd ..
 
 ## 📦 Dataset Preparation
 
-The **WTS (What-is-This-Scene) Dataset** must be prepared before training or inference.
-
+The **WTS (Woven Traffic Safety) Dataset** must be prepared before training or inference.
+The dataset can be downloaded from [here](https://woven-visionai.github.io/wts-dataset-homepage/).
 ### Dataset Structure
 
 ```
