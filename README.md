@@ -1,6 +1,6 @@
 # 🚗 Traffic Scene Understanding with Vision-Language Models
 
-> **Multimodal Vision-Language Models for Video Captioning and Visual Question Answering in Traffic Scenes**
+> **Task-Specific Dual-Model Framework for Comprehensive Traffic Safety Video Description and Analysis**
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
